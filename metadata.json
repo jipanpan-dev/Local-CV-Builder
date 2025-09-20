@@ -1,0 +1,5 @@
+{
+  "name": "Local CV Builder",
+  "description": "A powerful, client-side CV builder that helps you create, edit, and export professional-looking curriculum vitae. All your data is saved securely in your browser's local storage, ensuring privacy and convenience. Choose from multiple themes and export to PDF in A4 or Letter format.",
+  "requestFramePermissions": []
+}
